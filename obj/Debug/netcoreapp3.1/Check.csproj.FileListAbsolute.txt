@@ -1,0 +1,13 @@
+C:\Users\Ravula\source\repos\Check\bin\Debug\netcoreapp3.1\Check.exe
+C:\Users\Ravula\source\repos\Check\bin\Debug\netcoreapp3.1\Check.deps.json
+C:\Users\Ravula\source\repos\Check\bin\Debug\netcoreapp3.1\Check.runtimeconfig.json
+C:\Users\Ravula\source\repos\Check\bin\Debug\netcoreapp3.1\Check.runtimeconfig.dev.json
+C:\Users\Ravula\source\repos\Check\bin\Debug\netcoreapp3.1\Check.dll
+C:\Users\Ravula\source\repos\Check\bin\Debug\netcoreapp3.1\Check.pdb
+C:\Users\Ravula\source\repos\Check\obj\Debug\netcoreapp3.1\Check.csprojAssemblyReference.cache
+C:\Users\Ravula\source\repos\Check\obj\Debug\netcoreapp3.1\Check.AssemblyInfoInputs.cache
+C:\Users\Ravula\source\repos\Check\obj\Debug\netcoreapp3.1\Check.AssemblyInfo.cs
+C:\Users\Ravula\source\repos\Check\obj\Debug\netcoreapp3.1\Check.csproj.CoreCompileInputs.cache
+C:\Users\Ravula\source\repos\Check\obj\Debug\netcoreapp3.1\Check.dll
+C:\Users\Ravula\source\repos\Check\obj\Debug\netcoreapp3.1\Check.pdb
+C:\Users\Ravula\source\repos\Check\obj\Debug\netcoreapp3.1\Check.genruntimeconfig.cache
