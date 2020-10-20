@@ -8,6 +8,7 @@ namespace Check
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("welcome to C#")
+            Console.WriteLine("welcome to india");
         }
     }
 }
